@@ -1,12 +1,15 @@
+# Basic Calculator using C (Switch Case)
 
-# Common Calculator
+This is a simple calculator project written in C that performs basic arithmetic operations like addition, subtraction, multiplication, and division using the `switch` statement.
 
-Create a simple calculator using Programming language C.
+## 🔧 Features
 
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
 
+The user is prompted to enter two numbers and choose an operation. The calculator then displays the result based on the selected operation.
 
-
-## Lessons Learned
-
-Learned basic knowledge about Data type, Function, Switch Case, Operators. 
+## 📂 Project Structure
 
